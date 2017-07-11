@@ -1,0 +1,11 @@
+var lucarioHP = 344
+var lucarioNum = 448
+var lucarioType = "Fighting, Steel"
+var lucarioBestMove = "Aura Sphere"
+var lucarioLastEvo = true
+var lucarioAttack = 350
+var lucarioDefense = 262
+var lucarioSpeed = 306
+var lucarioSpecialAttack = 361
+var lucarioSpecialDefense = 262
+var lucarioSpecies = "Aura Pokemon"
