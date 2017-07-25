@@ -1,0 +1,44 @@
+.home {
+    
+    text-align: center;
+}
+
+.page{
+   
+   background-image: url("https://image.slidesharecdn.com/sonicsamplebluebackground-121213031816-phpapp01/95/sonic-sample-blue-background-1-638.jpg?cb=1355368811");
+    background-size:cover;
+    background-position: center;
+    text-align: center; 
+
+}
+
+h1 {
+    color: white; 
+}
+h2 {
+      
+     display: inline-block;
+     color: white;
+     font-size:25;
+}
+
+h3 {
+     display: inline-block;
+     color: white; 
+}
+
+.content img {
+    display:block;
+    margin-left: auto;
+    margin-right: auto; 
+}
+
+.content {
+    text-align: center; 
+    
+}
+
+p {
+    color: white; 
+    font-size: 25;
+}
